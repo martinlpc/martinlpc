@@ -4,7 +4,7 @@
 <div align="center">
 	<h1> Hi there! </h1>
 	<p>I'm <b>Martín</b>.</p>
-	<p>I'm a Front End Developer & I have a Bachelor Degree in Information Systems</p>
+	<p>I'm a Front End Developer with a Bachelor Degree in Information Systems</p>
 	<p>Currently learning about Full Stack Development</p>
 	<p>From Buenos Aires  <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/4x3/ar.svg" width="20"/> to the world</p>
 </div>
