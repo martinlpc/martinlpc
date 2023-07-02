@@ -5,7 +5,7 @@
 	<div align="center">
 		<h1> Hi there! </h1>
 		<p>I'm <b>Martín</b>.</p>
-		<p>I'm a Jr Full Stack Developer (MERN) with a Degree in Information Systems</p>
+		<p>I'm a Jr Full Stack Developer with a Degree as Information Systems Analyst</p>
 		<p>Besides, I have +12y experience in Electronics and RF</p>
 		<p>From and currently living in Buenos Aires city <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/4x3/ar.svg" width="20"/></p>
 	</div>
