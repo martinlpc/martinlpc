@@ -5,9 +5,10 @@
 	<div align="center">
 		<h1> Hi there! </h1>
 		<p>I'm <b>Martín</b>.</p>
-		<p>I'm a Full Stack Developer with a Degree as Information Systems Analyst</p>
-		<p>Besides, I have +12y experience in Electronics and RF</p>
-		<p>From and currently living in Buenos Aires city <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/4x3/ar.svg" width="20"/></p>
+		<p>Full Stack Developer with 14+ years of software engineering experience building mission-critical systems in the public sector, now specialized in modern web development with strong backend focus.</p>
+		<p>Proven track record of architecting solutions from scratch, maintaining large-scale applications, and delivering production-ready software.</p> 
+		<p>Recently transitioned to modern tech stack (React, Node.js, Express, Python, Django) with deployed applications demonstrating full-cycle development capabilities.</p>
+		<p>Based in Buenos Aires <img src="https://raw.githubusercontent.com/lipis/flag-icons/6ace9c47679ff2eb91cbc793fa8f922af32e3320/flags/4x3/ar.svg" width="20"/></p>
 	</div>
 </section>
 
@@ -20,7 +21,7 @@
 		<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />
 		<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" title="React router" alt="react router"/>
 		<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="Javascript" alt="js" />
-		<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" title="SASS" alt="sass" />
+		<img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss" title="TailwindCSS" alt="tailwindcss" />
 		<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase" alt="firebase" />
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="html" />
 		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="css3" />
@@ -28,7 +29,6 @@
 		<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
 		<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
 		<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="express" />
-		<img src="https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black" title="Handlebars" alt="handlebars"/>
 		<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" title="Socket.io" alt="socket.io"/>
 	</div>
 </section>
